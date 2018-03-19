@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/andrei.pitsko/HorizontalCardStack'
   s.license          = { :type => "Apache 2.0 License", :file => "LICENSE.txt" }
   s.author           = { 'andrei.pitsko' => 'andrei.pitsko@gmail.com' }
-  s.source           = { :git => 'https://github.com/andrei.pitsko/HorizontalCardStack.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pitsko/HorizontalCardStack.git', :tag => s.version.to_s }
   s.social_media_url   = "http://twitter.com/tispr"
   s.ios.deployment_target = '10.0'
   s.source_files = 'HorizontalCardStack/Classes/**/*'
