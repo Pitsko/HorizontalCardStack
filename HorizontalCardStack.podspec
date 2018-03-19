@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'HorizontalCardStack is a library designed to simplify the implementation of Linkedin like cards on iOS. (Next, Delete functionality)'
   s.description      = 'Swipable, customizable card stack view, Linkedin like card stack view based on UICollectionView. Cards UI'
-  s.homepage         = 'https://github.com/andrei.pitsko/HorizontalCardStack'
+  s.homepage         = 'https://github.com/pitsko/HorizontalCardStack'
   s.license          = { :type => "Apache 2.0 License", :file => "LICENSE.txt" }
   s.author           = { 'andrei.pitsko' => 'andrei.pitsko@gmail.com' }
   s.source           = { :git => 'https://github.com/pitsko/HorizontalCardStack.git', :tag => s.version.to_s }
