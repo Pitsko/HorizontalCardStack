@@ -1,0 +1,16 @@
+PODS:
+  - HorizontalCardStack (0.1.0)
+
+DEPENDENCIES:
+  - HorizontalCardStack (from `../`)
+
+EXTERNAL SOURCES:
+  HorizontalCardStack:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HorizontalCardStack: 3b4d05d67248ed06ae534348d75f3613deb38d61
+
+PODFILE CHECKSUM: dc958adc03ec5228ce151113d30fdf4315b22723
+
+COCOAPODS: 1.4.0

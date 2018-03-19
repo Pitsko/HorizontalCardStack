@@ -1,0 +1,6 @@
+framework module HorizontalCardStack {
+  umbrella header "HorizontalCardStack-umbrella.h"
+
+  export *
+  module * { export * }
+}

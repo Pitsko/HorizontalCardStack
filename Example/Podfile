@@ -1,0 +1,19 @@
+# Specs Sources List
+source 'https://github.com/CocoaPods/Specs.git'
+
+# Project Configuration
+platform :ios, ’10.0’
+
+## Settings
+inhibit_all_warnings!
+use_frameworks!
+
+target 'HorizontalCardStack_Example' do
+  pod 'HorizontalCardStack', :path => '../'
+
+  target 'HorizontalCardStack_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

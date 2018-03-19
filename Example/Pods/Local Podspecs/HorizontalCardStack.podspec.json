@@ -1,0 +1,22 @@
+{
+  "name": "HorizontalCardStack",
+  "version": "0.1.0",
+  "summary": "A short description of HorizontalCardStack.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andrei.pitsko/HorizontalCardStack",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andrei.pitsko": "andrei.pitsko@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andrei.pitsko/HorizontalCardStack.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "HorizontalCardStack/Classes/**/*"
+}
