@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.description      = 'Swipable, customizable card stack view, Linkedin like card stack view based on UICollectionView. Cards UI'
   s.homepage         = 'https://github.com/pitsko/HorizontalCardStack'
   s.license          = { :type => "Apache 2.0 License", :file => "LICENSE.txt" }
-  s.author           = { 'andrei.pitsko' => 'andrei.pitsko@gmail.com' }
+  s.authors           = { 'Andrei Pitsko' => 'andrei.pitsko@gmail.com' }
   s.source           = { :git => 'https://github.com/pitsko/HorizontalCardStack.git', :tag => s.version.to_s }
   s.social_media_url   = "http://twitter.com/tispr"
   s.ios.deployment_target = '10.0'

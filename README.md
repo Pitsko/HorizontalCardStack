@@ -57,7 +57,7 @@ For more detail, see the sample project.
 Contact
 -------
 
- andrei.pitsko@gmail.com, julien.perrenoud@tispr.com, pradeep.burugu@tispr.com, pavel.batashou@tispr.com
+ andrei.pitsko@gmail.com
 
 License
 -------
